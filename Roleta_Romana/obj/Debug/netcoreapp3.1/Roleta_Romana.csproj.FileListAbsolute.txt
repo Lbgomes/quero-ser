@@ -1,0 +1,13 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.runtimeconfig.dev.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\bin\Debug\netcoreapp3.1\Roleta_Romana.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.csprojAssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Roleta_Romana\obj\Debug\netcoreapp3.1\Roleta_Romana.genruntimeconfig.cache

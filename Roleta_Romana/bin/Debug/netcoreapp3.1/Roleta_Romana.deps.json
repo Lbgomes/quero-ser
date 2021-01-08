@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Roleta_Romana/1.0.0": {
+        "runtime": {
+          "Roleta_Romana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roleta_Romana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

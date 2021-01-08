@@ -1,0 +1,16 @@
+C:\Users\52584781816\Documents\exercicios\Desafios de programação\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.csprojAssemblyReference.cache
+C:\Users\52584781816\Documents\exercicios\Desafios de programação\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\52584781816\Documents\exercicios\Desafios de programação\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.AssemblyInfoInputs.cache
+C:\Users\52584781816\Documents\exercicios\Desafios de programação\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.csprojAssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\bin\Debug\netcoreapp2.2\Caixa_Eletronico.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\bin\Debug\netcoreapp2.2\Caixa_Eletronico.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\bin\Debug\netcoreapp2.2\Caixa_Eletronico.runtimeconfig.dev.json
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\bin\Debug\netcoreapp2.2\Caixa_Eletronico.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\bin\Debug\netcoreapp2.2\Caixa_Eletronico.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Desafios_de_Programa-o\Caixa_Eletronico\obj\Debug\netcoreapp2.2\Caixa_Eletronico.genruntimeconfig.cache
